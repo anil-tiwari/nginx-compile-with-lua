@@ -191,3 +191,4 @@ Insert the above lines of code in the \etc\nginx\nginx.conf inside the server bl
     Welcome to redis-lua module 
 
  
+@Refrence From [HERE](https://github.com/openresty/lua-nginx-module) 
